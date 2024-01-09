@@ -18,9 +18,9 @@ Created a dashboard in Power BI reflects all relevant Key Performance Indicators
 
 Calculated  the following measures could help to define proper KPIs:
 
-# of men
-# of women
-# of leavers
+% of men
+% of women
+% of leavers
 % employees promoted (FY21)
 % of women promoted
 % of hires men
